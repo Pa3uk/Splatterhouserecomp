@@ -43,9 +43,8 @@ Nuances
 2) Alt+Enter or F11 — switch between full-screen and windowed mode
 3) My tester friend assured me that the game works with both a keyboard and mouse, as well as a gamepad. (I do NOT have a gamepad.) The intention was for it to be played using a keyboard and mouse. Just keep that in mind.
 4) I’m not sure if it’s okay to include files from a file-sharing service, but these would be ready-to-use archives of a build that I’ve already tested.
-To be more precise, I’m referring to a ready-made "assets" archive that you’ll just need to unpack alongside the other files.Which are split into 2 archives of 2.5 GB each
-<img width="1066" height="273" alt="image" src="https://github.com/user-attachments/assets/8a7ee1f4-d0b0-40e5-af15-24983fb3e3f1" />
-
+To be more precise, I’m referring to a ready-made "assets" archive that you’ll just need to unpack alongside the other files.Which are split into  archives 
+<img width="1008" height="191" alt="image" src="https://github.com/user-attachments/assets/a5ba9f1b-2215-4e3f-9765-789a2fde4ce4" />
 If that’s not allowed, the most I can do is include the DLC files—otherwise, you won’t have them. You’ll need to place (extract) them into that same 'assets' folder.
 The DLC folder will need to be unpacked here (your DLC files will 100% likely not work if they do not have a .header file)
 <img width="996" height="342" alt="image" src="https://github.com/user-attachments/assets/22d25103-bb4c-49f6-a481-64e3ab6df185" />
