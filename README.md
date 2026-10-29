@@ -12,6 +12,11 @@ https://www.youtube.com/watch?v=U16HddhCwrY
 Launcher TEST (OLD video!) - Recomp Splatterhouse 2010 (Xbox 360 ver.)
 https://www.youtube.com/watch?v=_E1lbWy0F1I
 
+NEW VIDEO !
+https://www.youtube.com/watch?v=eyB5PLZPbBc
+The video shows the bulk of the work that has been done.
+As I mentioned, my PC is weak—you can even see in the video that OBS is consuming MORE resources than the game itself ^_^. I put a huge amount of effort into achieving this result; the whole process took me a month! It’ll be released in a couple of days.
+
 The recompiler itself will be available (towards the end of the week!)
 
 I ran it and played it on a system with a 1050 Ti, an i5-2550K, and 24 GB of RAM; I’m sure many people have better PCs, but if it worked for me, it should work for others too.
