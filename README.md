@@ -2,7 +2,7 @@
 
 Currently in the final stage of testing; If everything goes well, I’ll try to put out a RELEASE in a couple of days.
 
-There are 3 unresolved tasks left that I want to implement (if I can manage the time). Other aspects will be refined after the release. My goal was to create something that feels less like a simple recompiler and more like a full-fledged remake—a version that, if it ever needs a patch, would only require a minor one.
+There are 3 unresolved tasks left that I want to implement (if I can manage the time). Other aspects will be refined after the release. My goal was to create something that feels less like a simple recompiler and more like a full-fledged Remaster—a version that, if it ever needs a patch, would only require a minor one.
 
 I’ll record some new videos soon to clearly show what has changed during this time.
 
