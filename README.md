@@ -6,12 +6,6 @@ There are 3 unresolved tasks left that I want to implement (if I can manage the 
 
 I’ll record some new videos soon to clearly show what has changed during this time.
 
-TEST (OLD video!) - Recomp Splatterhouse 2010 (Xbox 360 ver.)
-https://www.youtube.com/watch?v=U16HddhCwrY
-
-Launcher TEST (OLD video!) - Recomp Splatterhouse 2010 (Xbox 360 ver.)
-https://www.youtube.com/watch?v=_E1lbWy0F1I
-
 NEW VIDEO !
 https://www.youtube.com/watch?v=eyB5PLZPbBc
 The video shows the bulk of the work that has been done.
