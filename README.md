@@ -4,10 +4,12 @@ Currently in the final stage of testing; If everything goes well, I’ll try to 
 
 There are 3 unresolved tasks left that I want to implement (if I can manage the time). Other aspects will be refined after the release. My goal was to create something that feels less like a simple recompiler and more like a full-fledged remake—a version that, if it ever needs a patch, would only require a minor one.
 
-TEST - Recomp Splatterhouse 2010 (Xbox 360 ver.)
+I’ll record some new videos soon to clearly show what has changed during this time.
+
+TEST (OLD video!) - Recomp Splatterhouse 2010 (Xbox 360 ver.)
 https://www.youtube.com/watch?v=U16HddhCwrY
 
-Launcher TEST - Recomp Splatterhouse 2010 (Xbox 360 ver.)
+Launcher TEST (OLD video!) - Recomp Splatterhouse 2010 (Xbox 360 ver.)
 https://www.youtube.com/watch?v=_E1lbWy0F1I
 
 The recompiler itself will be available (towards the end of the week!)
