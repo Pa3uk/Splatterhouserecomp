@@ -8,6 +8,9 @@ I’ll record some new videos soon to clearly show what has changed during this 
 
 NEW VIDEO !
 https://www.youtube.com/watch?v=eyB5PLZPbBc
+
+Take my word for it: if it seems like the video is lagging, it’s all BECAUSE OF OBS! ^_^
+
 The video shows the bulk of the work that has been done.
 As I mentioned, my PC is weak—you can even see in the video that OBS is consuming MORE resources than the game itself ^_^. I put a huge amount of effort into achieving this result; the whole process took me a month! It’ll be released in a couple of days.
 
