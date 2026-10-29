@@ -1,6 +1,8 @@
 # Recomp Splatterhouse 2010 (Xbox360 ver.)
 
-Currently in the final stage of testing; improvements are being made and added to the LAUNCHER.
+Currently in the final stage of testing; If everything goes well, I’ll try to put out a RELEASE in a couple of days.
+
+There are 3 unresolved tasks left that I want to implement (if I can manage the time). Other aspects will be refined after the release. My goal was to create something that feels less like a simple recompiler and more like a full-fledged remake—a version that, if it ever needs a patch, would only require a minor one.
 
 TEST - Recomp Splatterhouse 2010 (Xbox 360 ver.)
 https://www.youtube.com/watch?v=U16HddhCwrY
