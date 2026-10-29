@@ -1,4 +1,4 @@
-# Recomp Splatterhouse 2010 (Xbox360 ver.)
+# Recomp Splatterhouse 2010 REMASTER (Xbox360 ver.) on PC!
 
 Currently in the final stage of testing; If everything goes well, I’ll try to put out a RELEASE in a couple of days.
 
