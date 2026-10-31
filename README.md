@@ -42,18 +42,29 @@ I will also provide a separate download for the DLC folder; simply unpacking the
 
 
 #Nuances
+
 1)This is my first project, and I worked on it alone. Please provide constructive criticism. If you encounter an error or issue, please state exactly what you believe the problem is, where it occurred, and—ideally—include a screenshot of the moment it happened, along with the relevant log file. I will do my best to address the issue.
+
 2) F3	Debug overlay (FPS, frame stats) — since any other overlay displays incorrect frame data. Don't use YOUR overlays; they will never tell the truth -_-
+
 3) Alt+Enter or F11 — switch between full-screen and windowed mode.
+
 4) My tester friend assured me that the game works with both a keyboard and mouse, as well as a gamepad. (I do NOT have a gamepad.) The intention was for it to be played using a keyboard and mouse. Just keep that in mind.
+
 5) Cache, logs, and Profile are created automatically within the game folder.
+
 6) Also, you might experience (micro-)stuttering throughout the game; this is due to the cache. I’m not sure how to force the game to generate the entire cache upon its first launch, but once I’ve finished the game, I might include a cache file in the download—that could help mitigate the issue.
+
 7) I’m not sure if it’s okay to include files from a file-sharing service, but these would be ready-to-use archives of a build that I’ve already tested.
 To be more precise, I’m referring to a ready-made "assets" archive that you’ll just need to unpack alongside the other files.Which are split into  archives 
 <img width="1008" height="191" alt="image" src="https://github.com/user-attachments/assets/a5ba9f1b-2215-4e3f-9765-789a2fde4ce4" />
 If that’s not allowed, the most I can do is include the DLC files—otherwise, you won’t have them. You’ll need to place (extract) them into that same 'assets' folder.
 The DLC folder will need to be unpacked here (your DLC files will 100% likely not work if they do not have a .header file)
 <img width="996" height="342" alt="image" src="https://github.com/user-attachments/assets/22d25103-bb4c-49f6-a481-64e3ab6df185" />
+
+8)Functionality has been verified on an ENG build, which is publicly known as a (PROTOTYPE) Sep 16, 2010 build!
+<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/8870dd57-5819-4cec-b61e-88804af2452a" />
+
 
 #How do I update from version v# to the new one?
 
