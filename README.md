@@ -35,6 +35,7 @@ default.xex
 nxeart
 DLC
 <img width="698" height="254" alt="image" src="https://github.com/user-attachments/assets/16701d01-0039-4353-a970-f864db86e85d" />
+
 3)Once all the files are in one place, launch the application and adjust the settings to your preference (you can change the launcher's language in the corner!). Then, click "Save and Play." If you wish to make any changes later, please do so via the launcher; otherwise, the executable file functions independently.
 
 P.S. I have a pre-configured build, though it is in Russian only. However, I’ve set it up so that you can add any other version, provided that the aforementioned files are included. Unfortunately, trying to switch to another language in the build I provided won't make subtitles appear, because they simply aren't there. -_- This is an example of a Russian release.
