@@ -39,6 +39,8 @@ DLC
 
 3)Once all the files are in one place, launch the application and adjust the settings to your preference (you can change the launcher's language in the corner!). Then, click "Save and Play." If you wish to make any changes later, please do so via the launcher; otherwise, the executable file functions independently.
 
+4) If you encounter an ERROR during the first launch, don’t worry—it just means there’s an issue with your repository. Simply download the `Default.xex` file that I’ve provided in the releases. When the launcher prompts you to replace the file, point it to the location of the file you just downloaded (select it), and the game should then launch (the replacement will happen automatically).
+
 P.S. I have a pre-configured build, though it is in Russian only. However, I’ve set it up so that you can add any other version, provided that the aforementioned files are included. Unfortunately, trying to switch to another language in the build I provided won't make subtitles appear, because they simply aren't there. -_- This is an example of a Russian release.
 
 I will also provide a separate download for the DLC folder; simply unpacking these files into the "Assets" folder isn't enough, as you would also need to generate the `.header` files—something you wouldn't be able to do on your own. The file sizes are quite small: the entire DLC folder is 93.2 MB, while the game image in the "Data" folder is 5.04 GB.
