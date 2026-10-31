@@ -7,9 +7,11 @@ My goal was to create something that feels less like a simple recompiler and mor
 I’ll record some new videos soon to clearly show what has changed during this time.
 
 NEW VIDEO !
-https://www.youtube.com/watch?v=eyB5PLZPbBc
+https://www.youtube.com/watch?v=PlEoK5pK-70
 
 Take my word for it: if it seems like the video is lagging, it’s all BECAUSE OF OBS! ^_^
+
+Sincerely apologize for the lag during the video recording; OBS was consuming more resources than the game itself—my so-called "tester" decided to take the day off! -_- Regardless, I wanted to show that everything is working as intended: the DLCs, the in-game buttons, and—most importantly—an UNLOCKED, consistent, and stable 60 FPS, where the game doesn't end up running at half or double speed!
 
 The video shows the bulk of the work that has been done.
 As I mentioned, my PC is weak—you can even see in the video that OBS is consuming MORE resources than the game itself ^_^. I put a huge amount of effort into achieving this result; the whole process took me a month! It’ll be released in a couple of days.
