@@ -25,7 +25,8 @@ I’m not great at making posts look fancy, so I’ll just stick to the facts -_
 #Quick start / Installation instructions (what you need to do)
 
 1)Download the release and extract it anywhere.
-<img width="931" height="367" alt="image" src="https://github.com/user-attachments/assets/8dcdcd8f-90e6-40d1-a8a3-213502113981" />
+<img width="720" height="309" alt="image" src="https://github.com/user-attachments/assets/40fb0042-888e-45f2-bf96-31c87ce8ed87" />
+
 
 2)Next, you need to unpack ISO (I promised that there would be no restrictions based on game version, region, etc.; you simply need to obtain a WORKING game image in the language you want and unpack it) game files to obtain the asset files containing the game content:
 $SystemUpdate
