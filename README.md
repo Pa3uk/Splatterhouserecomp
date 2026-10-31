@@ -1,6 +1,6 @@
 # Recomp Splatterhouse 2010 REMASTER (Xbox360 ver.) on PC!
 
-FINAL - RELEASE TODAY!
+FINAL - RELEASE !
 
 My goal was to create something that feels less like a simple recompiler and more like a full-fledged Remaster—a version that, if it ever needs a patch, would only require a minor one.
 
