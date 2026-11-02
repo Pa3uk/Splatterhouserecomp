@@ -82,8 +82,12 @@ An auto-patch feature is planned for the launcher, but for now, you simply need 
 
 #Current unresolved issues causing difficulties:
 1) I cannot change the QTE display—which shows the position of the analog sticks—to show keyboard keys instead. This is practically impossible because, when dumping the textures, the stick position is always captured as a single, static "button" icon, lacking any directional information. Consequently, it is currently not possible to assign four distinct keys (even if I were to create a script that interprets the entire left or right analog stick as a single button press). I will return to addressing this problem after the release.
+I am referring specifically to this moment.
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/d537f831-553e-47c4-bc1b-be0baf450471" />
+
+
 2) Although I have managed to achieve some optimization, I haven't been able to ensure that the game processes shaders at startup (i.e., during the initial launch). As a result, your first experience with the game might include micro-stutters, which occur because new shaders are being generated on the fly. I will try to address this issue.
-3) I wasn’t happy with the low quality of the textures and shadows in the game; I wanted to improve at least the shadow quality, but it turned out to be a bit more complicated than I’d anticipated. That said, I haven’t abandoned the idea—I’d like to add a quality selection option (low/medium/high) to the launcher, though I’ll likely address this after the release.
+3) I wasn’t happy with the low quality of the shadows in the game; I wanted to improve at quality, but it turned out to be a bit more complicated than I’d anticipated. That said, I haven’t abandoned the idea—I’d like to add a quality selection option (low/medium/high) to the launcher, though I’ll likely address this after the release.
 
    As for FPS—if you’re told that the author has the FPS counter working and it shows 60 frames, don’t take their word for it; the readings from the game’s built-in debug menu (or recompiler overlay) and those from tools like MSI Afterburner (RivaTuner) are often misleading. Do not take such information seriously until it has been verified.
 
