@@ -41,6 +41,7 @@ To unpack your ISO file, use XboxImageExtractor-v1.2-win-x64
 
 3)Once all the files are in one place, launch the application and adjust the settings to your preference (you can change the launcher's language in the corner!). Then, click "Save and Play." If you wish to make any changes later, please do so via the launcher; otherwise, the executable file functions independently.
 
+
 4) If you encounter an ERROR during the first launch, don’t worry—it just means there’s an issue with your repository. Simply download the `Default.xex` file that I’ve provided in the releases. When the launcher prompts you to replace the file, point it to the location of the file you just downloaded (select it), and the game should then launch (the replacement will happen automatically).
 
 P.S. I have a pre-configured build, though it is in Russian only. However, I’ve set it up so that you can add any other version, provided that the aforementioned files are included. Unfortunately, trying to switch to another language in the build I provided won't make subtitles appear, because they simply aren't there. -_- This is an example of a Russian release.
