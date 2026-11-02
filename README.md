@@ -37,6 +37,8 @@ nxeart
 DLC
 <img width="698" height="254" alt="image" src="https://github.com/user-attachments/assets/16701d01-0039-4353-a970-f864db86e85d" />
 
+To unpack your ISO file, use XboxImageExtractor-v1.2-win-x64
+
 3)Once all the files are in one place, launch the application and adjust the settings to your preference (you can change the launcher's language in the corner!). Then, click "Save and Play." If you wish to make any changes later, please do so via the launcher; otherwise, the executable file functions independently.
 
 4) If you encounter an ERROR during the first launch, don’t worry—it just means there’s an issue with your repository. Simply download the `Default.xex` file that I’ve provided in the releases. When the launcher prompts you to replace the file, point it to the location of the file you just downloaded (select it), and the game should then launch (the replacement will happen automatically).
